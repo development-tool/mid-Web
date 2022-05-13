@@ -23,6 +23,6 @@ $ which node
 ```
 ### node moduleの設定
 ```
-npm install --save-dev typescript ts-loader webpack webpack-cli webpack-dev-server
-npm install -g typescript
+$npm install --save-dev typescript ts-loader webpack webpack-cli webpack-dev-server
+$npm install -g typescript
 ```
