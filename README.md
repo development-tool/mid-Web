@@ -26,3 +26,6 @@ $ which node
 $npm install --save-dev typescript ts-loader webpack webpack-cli webpack-dev-server
 $npm install -g typescript
 ```
+
+## ディレクトリ構成
+
