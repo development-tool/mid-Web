@@ -8,7 +8,7 @@
 ### nodeの設定（via nodebrew)
 すでに設定されているかはnode -vもしくは which nodeで確認
 ```
-// nodebrew経由でnodeをinstallするのでnodebrewそinstall
+// nodebrew経由でnodeをinstallするのでnodebrew install
 $brew install nodebrew
 // nodebrewに入っているnode versionの確認
 $nodebrew ls
